@@ -1,3 +1,3 @@
 # html-linkedin-page
 
-[linkedin](https://github.io/mahmutmuhittincolak/html-linkedin-page/index.html)
+[linkedin](https://mahmutmuhittincolak.github.io/index.html)
